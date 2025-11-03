@@ -1,3 +1,3 @@
 # k3s
 nginx exposed using k3s
-<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/af71c707-53a5-4771-8418-dddce267f9c9" />
+<img width="1503" height="783" alt="image" src="https://github.com/user-attachments/assets/93a676b8-9dca-4a6d-a0e0-adae097503b1" />
